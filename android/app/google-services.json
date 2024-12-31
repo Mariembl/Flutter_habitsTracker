@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955353985221",
+    "project_id": "gestion-habitudes",
+    "storage_bucket": "gestion-habitudes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955353985221:android:b356a9579649ef8e7140ac",
+        "android_client_info": {
+          "package_name": "com.example.gest_hab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5hozSGzJgnFuCJERdMPI7D5YNK4r5wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
